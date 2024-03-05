@@ -17,3 +17,14 @@ class MyApp extends StatelessWidget{
   }
 }
 
+class HomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Praktikum Layout Flutter'),
+      ),
+      body: ,
+    )
+  }
+  }
